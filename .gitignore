@@ -1,1 +1,6 @@
 *.o
+*.out
+
+riscv_workshop_collaterals/riscv_toolchain/
+riscv_workshop_collaterals/sample_run_scripts/
+riscv_workshop_collaterals/tests/
